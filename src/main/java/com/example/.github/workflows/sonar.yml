@@ -31,4 +31,4 @@ env:
 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 run: |
-mvn sonar:sonar \-Dsonar.projectKey=ranasingheranu214170m_lab2 \-Dsonar.organization=ranasingheranu214170m \-Dsonar.host.url=https://sonarcloud.io
+mvn sonar:sonar \-Dsonar.projectKey=RanasingheRANU214170M_lab2 \-Dsonar.organization=RanasingheRANU214170M \-Dsonar.host.url=https://sonarcloud.io
